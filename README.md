@@ -1,4 +1,4 @@
-Here is a clean, comprehensive, and well-structured README.md for your updated Playwright-based meta-ai-api project.
+
 Meta AI Python API (metaai-api)
 An unofficial Python API wrapper for Meta AI.
 Due to updated browser flags, Cloudflare protection, and bot detection on Meta AI, traditional HTTP request wrappers often fail. This version leverages Playwright under the hood to manage full browser automation while utilizing session cookies (datr & ecto_1_sess) for authenticated interactions.
